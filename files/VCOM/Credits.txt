@@ -1,0 +1,4 @@
+==============版权信息==============
+
+原驱动打包来自 www.AndroidMTK.com
+魔改：MisaLiu（https://misaliu.top）

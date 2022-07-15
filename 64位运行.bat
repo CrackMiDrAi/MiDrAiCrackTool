@@ -1,0 +1,1 @@
+python64\python.exe main.py
